@@ -10,16 +10,15 @@ As environmental concerns continues to grow, we believe it will be a good start 
 
 We used Scaffold-eth (https://github.com/austintgriffith/scaffold-eth) to build our smart contract and the front end UI. Reviews can only be posted by users with a review token supplied by the smart contract. We then used web3storage to store reviews written by users, and subsequently store the CID returned into our smart contract. Each review is mapped to the product and the reviewer address to ensure its authenticity.
 
+Other references: a_blockchain_based_system_for_online_consumer_reviews.pdf / ethereum_mitigating_review_frauds.pdf
+
 # Demo Video
 
 [Watch our demo video here](https://youtu.be/DY4uo5tojT4)
 
-Reference source: a_blockchain_based_system_for_online_consumer_reviews.pdf
-ethereum_mitigating_review_frauds.pdf
-
 # Link references
 
-[Carbon Reviews - EthGlobal](https://showcase.ethglobal.co/hackfs2021/carbonreviews)
+[Carbon Reviews - EthGlobal](https://showcase.ethglobal.co/hackfs2021/carbonreviews) and 
 [Scaffold Eth](https://github.com/austintgriffith/scaffold-eth)
 
 # To Run program
