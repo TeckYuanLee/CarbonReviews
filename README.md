@@ -17,6 +17,11 @@ We used scaffold-eth to help us speed up the learning process of creating smart 
 Reference source: a_blockchain_based_system_for_online_consumer_reviews.pdf
 ethereum_mitigating_review_frauds.pdf
 
+# Link references
+
+[Carbon Reviews - EthGlobal](https://showcase.ethglobal.co/hackfs2021/carbonreviews)
+[Scaffold Eth](https://github.com/austintgriffith/scaffold-eth)
+
 # To Run program
 
 Prerequisites: [Node](https://nodejs.org/en/download/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
