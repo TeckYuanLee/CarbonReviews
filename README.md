@@ -16,3 +16,37 @@ We used scaffold-eth to help us speed up the learning process of creating smart 
 
 Reference source: a_blockchain_based_system_for_online_consumer_reviews.pdf
 ethereum_mitigating_review_frauds.pdf
+
+# Link references
+
+[Carbon Reviews - EthGlobal](https://showcase.ethglobal.co/hackfs2021/carbonreviews)
+[Scaffold Eth](https://github.com/austintgriffith/scaffold-eth)
+
+# To Run program
+
+Prerequisites: [Node](https://nodejs.org/en/download/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
+
+> clone/fork 🏗 scaffold-eth:
+
+```bash
+git clone 
+```
+
+> install and start your 👷‍ Hardhat chain:
+
+```bash
+yarn install
+yarn chain
+```
+
+> in a second terminal window, start your 📱 frontend:
+
+```bash
+yarn start
+```
+
+> in a third terminal window, 🛰 deploy your contract:
+
+```bash
+yarn deploy
+```
